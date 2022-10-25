@@ -1,6 +1,7 @@
 # deconfounding_echr_emnlp22
 
-![alt text](ECtHR-Architecture.png "Our deconfounding experiment architecture")
+![](ECtHR-Architecture.png){width=250}
+Our deconfounding experiment architecture
 
 paper link: https://arxiv.org/abs/2210.XXXXXX
 
