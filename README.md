@@ -5,7 +5,7 @@
 </p>
 Our deconfounding experiment architecture
 </p>
-paper link: https://arxiv.org/abs/2210.XXXXXX
+paper link: https://arxiv.org/pdf/2210.13836.pdf
 </p>
 
 ## Usage
