@@ -8,5 +8,7 @@ Our deconfounding experiment architecture
 paper link: https://arxiv.org/pdf/2210.13836.pdf
 </p>
 
-## Usage
-We are in the process of releasing our baseline models. Stay tuned!
+## Dataset
+Our dataset is available on Huggingface 🤗:
+https://huggingface.co/datasets/TUMLegalTech/echr_rational
+
